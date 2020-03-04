@@ -1,0 +1,6 @@
+status,count,perc,remain
+all articles,13469,1,13469
+articles in journals that don't use DOIs,322,0.023906748830648156,13147
+articles for which a DOI could not be identified,584,0.04335882396614448,12563
+articles for which OA status could not be determined,22,0.0016333803548890043,12541
+articles with OA status,12541,0.9311010468483184,0
